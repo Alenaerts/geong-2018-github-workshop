@@ -5,7 +5,7 @@ CartONG.config = {};
 CartONG.config.content = {
   header: 'GeOnG 2018',
   subHeader: 'Github Workshop',
-  description: 'Get started with hub',
+  description: 'Get started with hub MSF MSF',
   source: 'https://photon.komoot.de/'
 };
 
